@@ -10,6 +10,6 @@ This page collects two kinds of things:
 
 **🛠 Tools** — small, free, journalist-facing utilities that solve real problems I've encountered in my work.
 
-**📓 Story walkthroughs** — case studies on stories where OSINT or code work did real reporting work.
+**📓 Story walkthroughs** — case studies on stories where OSINT or coding did real reporting work.
 
 More about my reporting: [josh-axelrod.com](https://josh-axelrod.com)
