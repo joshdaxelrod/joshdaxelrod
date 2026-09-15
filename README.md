@@ -9,6 +9,7 @@ But, like many journalists, I'm a humanities person, not a computer scientist. T
 This page collects two kinds of things:
 
 **🛠 Tools** — small, free, journalist-facing utilities that solve real problems I've encountered in my work.
+- [`telegram-feed`](https://github.com/joshdaxelrod/telegram-feed) — turns a list of Telegram channels into a browsable, searchable feed of what's popular and what's trending, without opening the Telegram app.
 - [`transcribe`](https://github.com/joshdaxelrod/transcribe) — turns a folder of interview recordings into searchable, timestamped transcripts, entirely on your own computer.
 
 **📓 Story walkthroughs** — case studies on stories where OSINT or coding did real reporting work.
