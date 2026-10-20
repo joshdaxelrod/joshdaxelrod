@@ -13,6 +13,6 @@ This page collects two kinds of things:
 - [`transcribe`](https://github.com/joshdaxelrod/transcribe) — turns a folder of interview recordings into searchable, timestamped transcripts, entirely on your own computer.
 
 **📓 Story walkthroughs** — case studies on stories where OSINT or coding did real reporting work.
-- Coming soon.
+- [`einzelfallticker`](https://github.com/joshdaxelrod/einzelfallticker) — how I fact-checked a German far-right party's map of "migrant crimes" against the police reports it cited.
 
 More about my reporting: [josh-axelrod.com](https://josh-axelrod.com)
