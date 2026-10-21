@@ -11,8 +11,10 @@ This page collects two kinds of things:
 **🛠 Tools** — small, free, journalist-facing utilities that solve real problems I've encountered in my work.
 - [`telegram-feed`](https://github.com/joshdaxelrod/telegram-feed) — turns a list of Telegram channels into a browsable, searchable feed of what's popular and what's trending, without opening the Telegram app.
 - [`transcribe`](https://github.com/joshdaxelrod/transcribe) — turns a folder of interview recordings into searchable, timestamped transcripts, entirely on your own computer.
+- [`whatsapp-channel-scraper`](https://github.com/joshdaxelrod/whatsapp-channel-scraper) — collects the posts and emoji reactions from a WhatsApp channel into a spreadsheet, to see how a channel's audience responds.
 
 **📓 Story walkthroughs** — case studies on stories where OSINT or coding did real reporting work.
 - [`einzelfallticker`](https://github.com/joshdaxelrod/einzelfallticker) — how I fact-checked a German far-right party's map of "migrant crimes" against the police reports it cited.
+- [`messerhauptstadt`](https://github.com/joshdaxelrod/messerhauptstadt) — how I checked the same party's knife-crime map of Berlin, which uses AI to pick its cases, and found its database covers all of Germany.
 
 More about my reporting: [josh-axelrod.com](https://josh-axelrod.com)
