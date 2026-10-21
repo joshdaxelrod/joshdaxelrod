@@ -15,6 +15,6 @@ This page collects two kinds of things:
 
 **📓 Story walkthroughs** — case studies on stories where OSINT or coding did real reporting work.
 - [`einzelfallticker`](https://github.com/joshdaxelrod/einzelfallticker) — how I fact-checked a German far-right party's map of "migrant crimes" against the police reports it cited.
-- [`messerhauptstadt`](https://github.com/joshdaxelrod/messerhauptstadt) — how I checked the same party's knife-crime map of Berlin, which uses AI to pick its cases, and found its database covers all of Germany.
+- [`messerhauptstadt`](https://github.com/joshdaxelrod/messerhauptstadt) — how I checked the same party's AI-sorted knife-crime map of Berlin against the police releases it cites, and found cases that had nothing to do with knife attacks.
 
 More about my reporting: [josh-axelrod.com](https://josh-axelrod.com)
